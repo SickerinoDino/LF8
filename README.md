@@ -1,4 +1,4 @@
-penis ist nur da weil ich nciht wusste was ich da reinschreiben soll upsi!
+Logger.py und LOGGER.csv müssen im gleichen Ordner sein 
 
 ⠄⠄⠄⢰⣧⣼⣯⠄⣸⣠⣶⣶⣦⣾⠄⠄⠄⠄⡀⠄⢀⣿⣿⠄⠄⠄⢸⡇⠄⠄
  ⠄⠄⠄⣾⣿⠿⠿⠶⠿⢿⣿⣿⣿⣿⣦⣤⣄⢀⡅⢠⣾⣛⡉⠄⠄⠄⠸⢀⣿⠄
