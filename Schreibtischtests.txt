@@ -1,0 +1,17 @@
+1. Schreibtischtest: 
+Programm ausführen
+Wlan adapter deaktivieren -> Ziel: network_usage=0
+Fehlermeldung -> "Keine Internetverbindung!"
+Test erfolgreich
+
+2. Schreibtischtest:
+Programm ausführen
+CPU Benchmark starten -> Ziel: cpu_perc über 90% 
+nach kurzer Zeit -> mehrere Fehlermeldung -> "CPU ist im kritischen Bereich! mit 92,5%" (verändert sich)
+Test erfolgreich
+
+3. Schreibtischtest:
+Programm asuführen 
+ganz viele Chrometasks öffnen -> Ziel: RAM auslastung über 90% 
+Fehlermeldung -> "RAM ist im kritischen Bereich! mit 90,5% (verändert sich)
+Test erfolgreich
